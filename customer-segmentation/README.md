@@ -7,3 +7,7 @@ The dataset is maintained on their site, where it can be found by the title "Onl
 #### Source: https://www.kaggle.com/fabiendaniel/customer-segmentation/ 
 Useful links:
 https://googleapis.dev/python/bigquery/latest/magics.html
+
+
+
+**The main purpose of this project is a transformation analytics from Pandas-python approach to SQL-BigQuery.**
